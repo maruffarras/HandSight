@@ -23,7 +23,7 @@
     ·
     <a href="_______ ">Presentation Slide</a>
     ·
-    <a href="________" target="_blank">Go To Market Slide</a>
+    <a href="https://docs.google.com/presentation/d/1HcXvlv8bCKEsgguLBg249njaZ78XvOIH4wWZuKw-WS0/edit#slide=id.p" target="_blank">Go To Market Slide</a>
     <br />
     © CH2 - PS430 Bangkit Capstone Team
   </p>
