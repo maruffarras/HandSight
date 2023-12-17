@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href='https://github.com/Ansco343/HandSight'><img src="https://i.ibb.co/dMJbyB0/lg.png" type='image' alt="Logo"></a>
+  <a href='https://github.com/Ansco343/HandSight'><img src="https://i.ibb.co/dMJbyB0/lg.png" type='image' alt="Logo" width="100"></a>
 
   <h1 align="center">HandSight</h1>
   <h2 align="center">
