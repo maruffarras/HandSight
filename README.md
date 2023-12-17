@@ -17,7 +17,7 @@
     <br />
     <a href="#">Project Brief</a>
     ·
-    <a href="_____">Journey APK Link</a>
+    <a href="_____">HandSight APK Link</a>
     ·
     <a href="________">Video Presentation</a>
     ·
